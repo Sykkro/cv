@@ -1,6 +1,6 @@
 # Ricardo Sousa
 
-## Senior Backend Developer
+## Principal Backend Developer
 
 | | | 
 |-|-|
@@ -9,7 +9,7 @@
 
 ## Summary
 
-Senior Backend Developer at Blip.pt for Flutter Entertainment's Sportsbook Betting Platforms (Betfair, Paddy Power, FanDuel and other brands) · Past professional experience with PKI development at Multicert ·
+Principal Backend Developer at Blip.pt for Flutter Entertainment's Sportsbook Betting Platforms (Betfair, Paddy Power, FanDuel and other brands) · Past professional experience with PKI development at Multicert ·
 MSc Degree in Cryptography and Information Systems Security 
 
 ---
@@ -19,14 +19,17 @@ MSc Degree in Cryptography and Information Systems Security
 >
 > ### Blip, Porto, Portugal
 >
-> **Senior Backend Developer**
->
-> _2014 - Present_
+> **Principal Backend Developer**
+> - _2021 - Present : Principal Backend Developer_
+> - _2018 - 2021 : Senior Backend Developer_
+> - _2015 - 2018 : Backend Developer_
+> - _2014 - 2015 : Associate Backend Developer_
 > 
-> Over 7 years of experience building mission-critical backend services for [Flutter](https://www.flutter.com/), an online bookmaking industry leader comprising brands such as Betfair, Fanduel, Paddy Power, Pokerstars and Sky Bet.
+> Over 8 years of experience designing and building mission-critical backend services for [Flutter](https://www.flutter.com/), an online bookmaking industry leader comprising brands such as Betfair, Fanduel, Paddy Power, Pokerstars and Sky Bet.
 >
 > **Main responsibilities:**
 > 
+> - Software architecture analysis and tecnhical solution design for new betting product features and projects over inner-sourced, worldwide shared codebases;
 > - development and on-call support of highly-performant, reliable and scalable web services for global sportsbook betting platforms, including bet reporting services, resulting logic and pricing engines;
 > - technical capability ownership, working closely with Product, Architecture, Infrastructure and Delivery Management teams in order to review product requirements, refine technical approaches, plan and test services' capacity and estimate required development work;
 > - team leadership and mentoring of junior and mid backend developers;
@@ -103,16 +106,17 @@ MSc Degree in Cryptography and Information Systems Security
 
 | Year | Title | Entity | Certification credential |
 |:----:|:------|:------------------|:----------:|
-| 2020 | [Kubernetes Certified Application Developer (CKAD) with Tests](https://www.udemy.com/course/certified-kubernetes-application-developer/) | Udemy | [Certificate](https://drive.google.com/file/d/16kRJWC_Y0vhDUk1gwyMlP_iOZWCA_ozg/view)
-| 2020 | [Kubernetes for the Absolute Beginners - Hands On](https://www.udemy.com/course/learn-kubernetes/) | Udemy | [Certificate](https://drive.google.com/file/d/1SqA1lC9WgMGJ28F8hxq4C7L_nyFOsw9v/view) |
+| 2021 | [New Features in Java 11](https://www.accelebrate.com/training/java-11-new-features) | Accelebrate | [Certificate](/res/certifications/2021_accelebrate_java11.pdf) |
+| 2020 | [Kubernetes Certified Application Developer (CKAD) with Tests](https://www.udemy.com/course/certified-kubernetes-application-developer/) | Udemy | [Certificate](/res/certifications/2020_k8s_ckad.pdf)
+| 2020 | [Kubernetes for the Absolute Beginners - Hands On](https://www.udemy.com/course/learn-kubernetes/) | Udemy | [Certificate](/res/certifications/2020_k8s_begginers.pdf) |
 | 2019 | [Elasticsearch Engineer I](https://www.elastic.co/training/elasticsearch-engineer-1) | Elastic | - |
 | 2018 | Apache Cassandra's [DS210: Operations & Performance Tuning](https://www.datastax.com/resources/datasheet/ds210-operations-performance-tuning) | DataStax | - |
 | 2017 | Lock-Free Algorithms In Java | Martin Thompson<br>(Real Logic) | - |
-| 2017 | FAST TRACK TO AKKA with Java | Lightbend, Inc. | [Certificate](https://drive.google.com/file/d/1rN4LjLiSYCpxN1t43solFueMonYUVj2z/view) |
+| 2017 | FAST TRACK TO AKKA with Java | Lightbend, Inc. | [Certificate](/res/certifications/2017_lightbend_akka.pdf) |
 | 2017 | [Machine Learning](https://www.coursera.org/learn/machine-learning) (Stanford) | Coursera | [`WYFDRLEBUZPK`](https://www.coursera.org/account/accomplishments/verify/WYFDRLEBUZPK) |
 | 2016 | [Modern Development with Java 8](http://iteratrlearning.com/java8course) | Iteratr Learning | - |
 | 2015 | Certified ScrumMaster® | Scrum Alliance | [`000416629`](https://www.scrumalliance.org/community/profile/rsousa4) | 
-| 2013 | [Functional Programming Principles in Scala](https://www.coursera.org/specializations/scala?) | Coursera | [Certificate](https://drive.google.com/file/d/11N-Yeq0wp3vVnDFEoF5A_WuQG4i7WlsU/view) |
+| 2013 | [Functional Programming Principles in Scala](https://www.coursera.org/specializations/scala?) | Coursera | [Certificate](/res/certifications/2014_coursera_progfun.pdf) |
  
 
 ---
